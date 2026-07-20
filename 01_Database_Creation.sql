@@ -1,0 +1,4 @@
+CREATE DATABASE Retail_SourceDB;
+GO
+CREATE DATABASE Retail_TargetDB;
+GO
