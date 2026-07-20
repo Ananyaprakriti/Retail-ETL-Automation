@@ -92,8 +92,9 @@ Email Notification
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Bharadwaj Naidu**
+**Ananya Reddy**
 
-SQL Server | ETL | Snowflake | dbt | Data Engineering
+**Skills:** Microsoft SQL Server • SSMS • T-SQL • SSIS • SQL Server Agent • Database Mail • ETL Development • Git & GitHub
+---
