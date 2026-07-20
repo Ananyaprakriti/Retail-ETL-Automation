@@ -87,8 +87,7 @@ Email Notification
 5. 05_usp_CopyRetailData.sql
 6. 06_Database_Mail.sql
 7. 07_SQL_Server_Agent.sql
-8. 08_SSIS_Guide.md
-9. 09_Validation_Queries.sql
+8. 09_Validation_Queries.sql
 
 ---
 
