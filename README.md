@@ -91,26 +91,25 @@ Email Notification
 9. 09_Validation_Queries.sql
 
 ---
-## Project Screenshots
+## 📸 Project Screenshots
 
 ### Source Database
-![Source Database](Screenshots/Source_Database.png)
+![Source Database](Screenshots/1_source_database_RetailSourceDB.png)
 
 ### Target Database
-![Target Database](Screenshots/Target_Database.png)
+![Target Database](Screenshots/2_target_database_RetailTargetDB.png)
 
 ### ETL Audit
-![ETL Audit](Screenshots/ETL_Audit.png)
+![ETL Audit](Screenshots/3_ETL_audit_table.png)
 
 ### Stored Procedure
-![Stored Procedure](Screenshots/Stored_Procedure.png)
+![Stored Procedure](Screenshots/4_stored_procedure_usp_CopyRetailData.png)
 
 ### SQL Server Agent Job
-![SQL Server Agent](Screenshots/SQL_Server_Agent.png)
+![SQL Server Agent](Screenshots/5_sql_agent_job_RetailETLJob.png)
 
 ### Validation Results
-![Validation Results](Screenshots/Validation_Results.png)
-
+![Validation Results](Screenshots/6_validation_data_loaded.png)
 
 ## Author
 
