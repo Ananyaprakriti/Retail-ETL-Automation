@@ -91,6 +91,26 @@ Email Notification
 9. 09_Validation_Queries.sql
 
 ---
+## Project Screenshots
+
+### Source Database
+![Source Database](Screenshots/Source_Database.png)
+
+### Target Database
+![Target Database](Screenshots/Target_Database.png)
+
+### ETL Audit
+![ETL Audit](Screenshots/ETL_Audit.png)
+
+### Stored Procedure
+![Stored Procedure](Screenshots/Stored_Procedure.png)
+
+### SQL Server Agent Job
+![SQL Server Agent](Screenshots/SQL_Server_Agent.png)
+
+### Validation Results
+![Validation Results](Screenshots/Validation_Results.png)
+
 
 ## Author
 
