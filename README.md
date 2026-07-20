@@ -89,6 +89,27 @@ Email Notification
 7. 07_SQL_Server_Agent.sql
 8. 09_Validation_Queries.sql
 
+## 📸 Project Screenshots
+
+### Source Database
+![Source Database](1_source_database_RetailSourceDB.png)
+
+### Target Database
+![Target Database](2_target_database_RetailTargetDB.png)
+
+### ETL Audit
+![ETL Audit](3_ETL_audit_table.png)
+
+### Stored Procedure
+![Stored Procedure](4_stored_procedure_usp_CopyRetailData.png)
+
+### SQL Server Agent Job
+![SQL Server Agent](5_sql_agent_job_RetailETLJob.png)
+
+### Validation Results
+![Validation Results](6_validation_data_loaded.png)
+
+
 ---
 
 
